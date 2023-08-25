@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+#num1, #num2, #sum-el {
+    font-size: 18px;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+div {
+    margin: 10px;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#sum-el {
+    font-weight: bold;
+    font-size: 20px;
+}
