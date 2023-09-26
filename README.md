@@ -1,5 +1,3 @@
-Certainly! Here's a README file for your calculator web application:
-
 # Calculator Web Application
 
 A simple web application that allows users to input two numbers and perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
